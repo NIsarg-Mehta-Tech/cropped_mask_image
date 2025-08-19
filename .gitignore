@@ -1,0 +1,74 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+# =====================
+# Virtual Environments (conda/venv)
+# =====================
+.venv/
+venv/
+env/
+ENV/
+conda_env/
+*.conda
+*.yml
+*.yaml
+
+# If you export conda env (keep manually)
+# environment.yml
+# environment.yaml
+
+# =====================
+# IDE / Editor settings
+# =====================
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# =====================
+# Logs / temp files
+# =====================
+*.log
+*.tmp
+*.bak
+*.orig
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Output / media files
+# =====================
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.mp3
+
+# Generated outputs
+output_*.mp4
+output_*.avi
+
+# =====================
+# Jupyter Notebook
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# Project specific
+# =====================
+videos/
